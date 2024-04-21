@@ -7,7 +7,7 @@
 ```bash
 git clone https://github.com/b3GOR/METRO_bot.git
 ```
-2. Скачайте необходимые зависимости
+2. Скачайте необходимые зависимости (Wisper требует ряд доп зависимостей, поэтому необходимо перейти в этот репозиторий [Ссылка](https://www.figma.com/file/3jb0H3ZVQcEGitIoWB8bWH/NuclearHacK-%7C-МТП?type=design&node-id=0-1&mode=design)
 ```bash
 pip install -r requirements.txt
 ```
@@ -15,5 +15,5 @@ pip install -r requirements.txt
 4. Зайдите в бота в телеграмм
 https://t.me/rzshd_bot
 
-## [Презентация](https://www.figma.com/file/3jb0H3ZVQcEGitIoWB8bWH/NuclearHacK-%7C-МТП?type=design&node-id=0-1&mode=design)
+## [Презентация с хакатона](https://www.figma.com/file/3jb0H3ZVQcEGitIoWB8bWH/NuclearHacK-%7C-МТП?type=design&node-id=0-1&mode=design)
 
