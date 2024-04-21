@@ -1,0 +1,13 @@
+telebot
+nltk
+dateparser
+requests
+whisper
+subprocess
+import datetime
+pyaspeller
+setuptools-rust
+pandas
+openpyxl
+lightgbm
+scikit-learn
