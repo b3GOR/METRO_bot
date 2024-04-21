@@ -1,3 +1,9 @@
 .venv
+<<<<<<< HEAD
 telegram_bot_miphi
 catboost_info
+=======
+Датасет.xlsx
+catboost_info
+telegram_bot_miphi
+>>>>>>> d1731d7501ca75a65407ba536c211c5d96a085a7
