@@ -19,5 +19,5 @@ python main.py
 5. Зайдите в бота в телеграмм
 https://t.me/rzshd_bot
 
-## [Презентация с хакатона](https://www.figma.com/file/3jb0H3ZVQcEGitIoWB8bWH/NuclearHacK-%7C-МТП?type=design&node-id=0-1&mode=design)
+## [Презентация с хакатона](https://www.figma.com/file/3jb0H3ZVQcEGitIoWB8bWH/NuclearHacK-%7C-%D0%9C%D0%A2%D0%9F?type=design&node-id=0%3A1&mode=design&t=jCodclLcGxtzFY4h-1)
 
