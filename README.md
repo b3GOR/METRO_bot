@@ -11,7 +11,7 @@ git clone https://github.com/b3GOR/METRO_bot.git
 ```bash
 pip install -r requirements.txt
 ```
-3. Запустите бота (в папке telegram_bot_miphi запустите файл main.py)
+3. Запустите бота (в папке telegram_bot_miphi запустите файл main.py) [sjava1902](https://github.com/sjava1902/telegram_bot_miphi)
 4. Зайдите в бота в телеграмм
 https://t.me/rzshd_bot
 
